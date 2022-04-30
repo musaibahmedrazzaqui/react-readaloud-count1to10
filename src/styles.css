@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+   background: #e9ff85;
+}
+
+.demoPage {
+   background: white;
+  /*border: 1px solid black;*/
+}
+
+img {
+  height: 100%;
+}
+
+.book {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+/* .demoPage:nth-child(2) {
+  background: #3a48c7;
+}
+
+.demoPage:nth-child(3) {
+  background: #5cc964;
+}
+
+.demoPage:nth-child(5) {
+  background: #4c9ea0;
+}
+
+.demoPage:nth-child(6) {
+  background: #fec658;
+} */
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
